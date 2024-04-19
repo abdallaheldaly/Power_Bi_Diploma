@@ -7,7 +7,7 @@
 
 How to Run The app with Docker
 
-First, you will download <a href="https://docs.docker.com/engine/install/">Docker</a> group</h3> from the official website appropriate for your operating system
+First, you will download <a href="https://docs.docker.com/engine/install/">Docker</a></h3> from the official website appropriate for your operating system
 
 Build the docker image
 
