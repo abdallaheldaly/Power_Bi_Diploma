@@ -20,6 +20,6 @@ Build the docker image
 
  ## $ docker run -p 8888:8888 "Put you IMAGE ID"
 
-Your notebooks are now acessible on http://127.0.0.1:8888 as usual
+Your notebooks are now acessible on http://127.0.0.1:8888 or http://127.0.0.1:8888/lab as usual
 
 For your information, docker is not in the course outline
